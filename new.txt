@@ -1,2 +1,3 @@
 Git is a distributed version costrol system
 Git is a free software discributed under the GPL
+git has a nutable index called stage
